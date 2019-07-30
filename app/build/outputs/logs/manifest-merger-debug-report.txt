@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:2:11-47
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:6:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/e03bf168d85024996d831128fddeb9c1a97bb0f8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/cdbbacf6c884a336f809e8bf82f907ba37bad8f2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vyeoh/.android/build-cache/ebd3274e62195add2226a593645c927060cf55cb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/vyeoh/.android/build-cache/13d59069968968a710f1d92ddec9fcf39edd1b2e/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:customtabs:23.3.0] /Users/vyeoh/.android/build-cache/8a1ae93e3cc3988a342683991e779991cfc67c66/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/vyeoh/.android/build-cache/2c5bccec2b10386966b4f4b436af6a14b0b682e4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/vyeoh/.android/build-cache/806f6f3df5067f5af9b9cd989b7d59f8f3f9dc26/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/vyeoh/.android/build-cache/7b0cd647d7e13c42f19add2185ee115964efdce5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.0] /Users/vyeoh/.android/build-cache/45d3a6fa7127dfd72a6d98b849b2822a500e123b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/vyeoh/.android/build-cache/a79035e0b89306509eddbe4b8e1f204ec12d94ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/vyeoh/.android/build-cache/e0ae3f131a07f60984cdd89a4a4c9fa1f5657678/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/vyeoh/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/vyeoh/.android/build-cache/a53447ff4667c708d04e21662bae0fac31bf6fe3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/vyeoh/.android/build-cache/4e4e41ac306eba5da0953e1b0ddc2e4b88e5ea78/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:9:9-73
+activity#com.example.anshul.webview.WebActivity
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:15:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:19:27-74
+meta-data#io.branch.sdk.BranchKey
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:23:9-119
+	android:value
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:23:59-116
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:23:20-58
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:24:9-127
+	android:value
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:24:64-124
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:24:20-63
+meta-data#io.branch.sdk.TestMode
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:25:9-82
+	android:value
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:25:58-79
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:25:20-57
+receiver#io.branch.referral.InstallListener
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:exported
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:28:69-92
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:28:19-68
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:29:13-31:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml:30:25-76
+uses-sdk
+INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/e03bf168d85024996d831128fddeb9c1a97bb0f8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/cdbbacf6c884a336f809e8bf82f907ba37bad8f2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vyeoh/.android/build-cache/ebd3274e62195add2226a593645c927060cf55cb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [io.branch.sdk.android:library:3.2.0] /Users/vyeoh/.android/build-cache/e62c7af60675b33f27767f9f386149176961b62f/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/vyeoh/.android/build-cache/13d59069968968a710f1d92ddec9fcf39edd1b2e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:23.3.0] /Users/vyeoh/.android/build-cache/8a1ae93e3cc3988a342683991e779991cfc67c66/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/vyeoh/.android/build-cache/04eda3148ca2e4f20bbeaaf6bf535ee6179ea387/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/vyeoh/.android/build-cache/2c5bccec2b10386966b4f4b436af6a14b0b682e4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/vyeoh/.android/build-cache/806f6f3df5067f5af9b9cd989b7d59f8f3f9dc26/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/vyeoh/.android/build-cache/7b0cd647d7e13c42f19add2185ee115964efdce5/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.0] /Users/vyeoh/.android/build-cache/45d3a6fa7127dfd72a6d98b849b2822a500e123b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/vyeoh/.android/build-cache/a79035e0b89306509eddbe4b8e1f204ec12d94ed/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/vyeoh/.android/build-cache/e0ae3f131a07f60984cdd89a4a4c9fa1f5657678/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/vyeoh/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/vyeoh/.android/build-cache/a53447ff4667c708d04e21662bae0fac31bf6fe3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /Users/vyeoh/.android/build-cache/4e4e41ac306eba5da0953e1b0ddc2e4b88e5ea78/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vyeoh/van-tests/WebViewDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/e03bf168d85024996d831128fddeb9c1a97bb0f8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/vyeoh/.android/build-cache/cdbbacf6c884a336f809e8bf82f907ba37bad8f2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/vyeoh/.android/build-cache/45d3a6fa7127dfd72a6d98b849b2822a500e123b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/vyeoh/.android/build-cache/a79035e0b89306509eddbe4b8e1f204ec12d94ed/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/vyeoh/.android/build-cache/e0ae3f131a07f60984cdd89a4a4c9fa1f5657678/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/vyeoh/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/vyeoh/.android/build-cache/a53447ff4667c708d04e21662bae0fac31bf6fe3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/vyeoh/.android/build-cache/4e4e41ac306eba5da0953e1b0ddc2e4b88e5ea78/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/AndroidManifest.xml:20:20-65

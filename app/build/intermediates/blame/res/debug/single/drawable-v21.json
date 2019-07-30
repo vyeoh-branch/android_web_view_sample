@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

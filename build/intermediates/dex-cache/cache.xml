@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/7c1961882ec8ce58222a8ed5b6ec0bb267573871/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_650c1cd8c24181b389f738e0fed20223ccd44d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_06bbd1ca5ca152d08003dfbeb3a14600f26544cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/13d59069968968a710f1d92ddec9fcf39edd1b2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_3474f30a928d9c4d30668065eff513339a461527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/e62c7af60675b33f27767f9f386149176961b62f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d993da251c0adf7df7bee0d204685ef7cfe2a63e">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_23c5a2bd6ac1762b28c9116ed73b14edabcf3ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_77acf2db8067faa1e0047a6d66ee8272be67ed0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/e03bf168d85024996d831128fddeb9c1a97bb0f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_5c214a136376405401f6fe668059d2c6827ef95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/8a1ae93e3cc3988a342683991e779991cfc67c66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d3964db19259a503a8c9467e52c344c0372ebf8">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_f662b7f0c9010ef5ff3e6fae5775762586a9e8cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/a53447ff4667c708d04e21662bae0fac31bf6fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_bdd935e7121ff8b80717599419d02ec4c66edddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/2c5bccec2b10386966b4f4b436af6a14b0b682e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_549df65ab632a80f475177153ffabd92a5512208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/7b0cd647d7e13c42f19add2185ee115964efdce5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_0098b627ac32069390ae206490902a6d3fab70b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_2139280870fdb02b96446a049543dcf447029374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_446ff58e11b81f68c771f2c6051a0f85d5183af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/a79035e0b89306509eddbe4b8e1f204ec12d94ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_36232d07e64c8def189a5d10716e407e7323988f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/4e4e41ac306eba5da0953e1b0ddc2e4b88e5ea78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_f8c2b9a643c41867e8c7d6379179adc21d203c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/7c82a0ca82d6b4538040e82b549d2eecd3ad982e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_7d62d00b43293f238b9157749bcd9ec8d4bda484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/e0ae3f131a07f60984cdd89a4a4c9fa1f5657678/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_0ef8edc689a5189422cfc287ad72ce9bc7e5884b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_193efc07ef7a141eeecc3c3aed0bf85f54cffdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/ebd3274e62195add2226a593645c927060cf55cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_ab7830f2a0f7d1a438bc25df2458b5a5bb94a994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/04eda3148ca2e4f20bbeaaf6bf535ee6179ea387/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_6e7b78ae400d72a2ff058b7140b0370ce8948847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/806f6f3df5067f5af9b9cd989b7d59f8f3f9dc26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_b3c50fad4205e8ecbae4cc69d5775d202703fb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/cdbbacf6c884a336f809e8bf82f907ba37bad8f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_d68991c1b59ba9c74b7d43f39064394e40dafc9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vyeoh/.android/build-cache/45d3a6fa7127dfd72a6d98b849b2822a500e123b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/pre-dexed/debug/classes_75c500dfff058721f39279ebb36bc6906bb7bc9a.jar" />
+    </item>
+
+</items>

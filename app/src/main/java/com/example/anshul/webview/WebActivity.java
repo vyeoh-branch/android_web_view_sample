@@ -1,10 +1,10 @@
 package com.example.anshul.webview;
 
-import android.os.Build;
-import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
+        import android.os.Build;
+        import android.os.Bundle;
+        import android.support.v7.app.AppCompatActivity;
+        import android.webkit.WebSettings;
+        import android.webkit.WebView;
 
 public class WebActivity extends AppCompatActivity {
 

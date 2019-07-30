@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/vyeoh/.android/build-cache/f411fead9f52e817f7707361bf7497ac0ae748ff/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vyeoh/van-tests/WebViewDemo/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/vyeoh/.android/build-cache/c93e77a107075a951e6e44a9d64595ff22b7690a/output/res/color/abc_tint_seek_thumb.xml"
+    }
+]
