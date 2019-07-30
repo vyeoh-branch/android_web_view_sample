@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui-25.3.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a9f946177b9175874ee915025323c0a140799209/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/extras/android/m2repository/com/android/support/support-core-ui/25.3.0/support-core-ui-25.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
